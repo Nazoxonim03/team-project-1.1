@@ -215,9 +215,6 @@ margin: 64px 58px 71px 15px;
     display: block;
     margin-top: 84px;
           }
-.shape1{
-      
-}
 
  .end2{
     display: block;
@@ -353,7 +350,7 @@ color: white;
 font-weight: 700;
 line-height: 56px;
 }
-input{
+.email{
     padding: 22px 300px 23px 24px;
     background-color: transparent;
     color: #EBF0F9;
